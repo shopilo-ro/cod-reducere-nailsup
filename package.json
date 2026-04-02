@@ -1,0 +1,22 @@
+{
+  "name": "cod-reducere-nailsup",
+  "version": "1.0.0",
+  "description": "Fetch automat de coduri de reducere Nailsup de pe shopilo.ro",
+  "main": "index.js",
+  "keywords": [
+    "cod-reducere",
+    "cod-reducere-nailsup",
+    "voucher-nailsup",
+    "cupon-nailsup",
+    "reduceri",
+    "shopilo",
+    "cupoane"
+  ],
+  "author": "shopilo-ro",
+  "license": "MIT",
+  "homepage": "https://shopilo.ro/magazin/nailsup.ro",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/shopilo-ro/cod-reducere-nailsup.git"
+  }
+}
